@@ -129,3 +129,8 @@ public class MainActivity extends AppCompatActivity{
 //        bindService(intent,mServiceConnection,BIND_AUTO_CREATE);
 //    }
 }
+
+
+
+
+

@@ -105,7 +105,7 @@ public class WorkService extends Service {
 
     //注册回调实现
     private void registerListenerImp(CountListener listener){
-        Log.i(TAG, "registerListenerImp: listener : " + listener);
+        Log.i(TAG, "registerListener: listener : " + listener);
         if(listener != null){
             mCountListener = listener;
         }
